@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://adrenalinepbc.kz/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://adrenalinepbc.kz/img/photo-03.jpg</image:loc>
+      <image:title>Команда игроков в клубе ADRENALINE, Алматы</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrenalinepbc.kz/img/loc-01.jpg</image:loc>
+      <image:title>Арена Штурм, пейнтбольный клуб ADRENALINE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrenalinepbc.kz/img/int-mural.jpg</image:loc>
+      <image:title>Зона отдыха с граффити в клубе ADRENALINE</image:title>
+    </image:image>
+  </url>
+</urlset>
